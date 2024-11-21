@@ -1,2 +1,2 @@
 # Elonism
-The journey code specialist
+The jounior code specialist
